@@ -1,5 +1,2 @@
-echo 1
-echo 11
-echo 12
-echo 55
-echo 99
+my name is Ashok
+my employeeid is 11
